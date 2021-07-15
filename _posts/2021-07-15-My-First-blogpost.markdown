@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "My first blog! Yay!"
+title:  "My First Blogpost! Yay!"
 date:   2021-07-15 17:36:39 +0530
 categories: jekyll update
 ---
