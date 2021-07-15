@@ -33,6 +33,7 @@ github_username:  ShalmonAnandas
 
 # Build settings
 theme: jekyll-swiss
+theme_color: red
 plugins:
   - jekyll-feed
 
