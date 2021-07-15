@@ -32,7 +32,7 @@ twitter_username: anandasshalmon
 github_username:  ShalmonAnandas
 
 # Build settings
-theme: jekyll-swiss
+theme: 
 plugins:
   - jekyll-feed
 

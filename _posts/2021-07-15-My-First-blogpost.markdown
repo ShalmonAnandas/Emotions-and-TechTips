@@ -4,6 +4,9 @@ title:  "My First Blogpost! Yay!"
 date:   2021-07-15 17:36:39 +0530
 categories: jekyll update
 ---
+
+![first post reactin gif](https://media2.giphy.com/media/qlbcqVraSMEak/giphy.gif?cid=ecf05e47o9utgx4h3c2drymn0ukvm30i8h7lyqrkssk6eawn&rid=giphy.gif&ct=g)
+
 So yeah, I finally caved in and started a blog. Fun!
 
 To be honest, I've always wanted to have an outlet to talk about the things I love and do on a daily basis (Which mostly comprises of tech stuff xD) and annoying my friends and family for each and every little thing I do sends me through a guilt trip. So now I'm here. To talk about stuff and things.
