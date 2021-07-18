@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Steam Deck, Linux, Github Copilot and more!"
-date:   2021-07-19 00:00:00 +0530
+date:   2021-07-18 00:00:00 +0530
 categories: Blogs
 ---
 
