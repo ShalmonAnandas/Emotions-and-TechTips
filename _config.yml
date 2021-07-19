@@ -18,14 +18,15 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Welcome to my blog!
+title: Welcome to my Website!
 email: nashalanandas@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  I write about anything and everything that I find even mildly interesting.
-  
-  Some new python library, a youtube video that I liked too much, a new blender discovery I made or even the movie I watched last night. All of it goes here.
-  
-  Hope you find the things I'm passionate about interesting enough to read ^~^
+  I write weekly blogs on tech, movies, shows and all things entertainment.
+
+  I also write tutorials on tech problems I come across daily.
+
+blg: Blog
+tut: Tutorials
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: anandasshalmon

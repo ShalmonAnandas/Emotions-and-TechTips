@@ -2,18 +2,6 @@
 <html>
 
   {% include head.html %}
-  <head>
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-WZN8C7E1VS"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-  
-    gtag('config', 'G-WZN8C7E1VS');
-  </script>
-
-  </head>
 
   <body>
 
@@ -52,7 +40,7 @@
               <!-- Set site description in config.yml -->
               <p class="h4 lh-condensed font-smoothing mt-2 py-1">{{ site.description }}</p>
             </div>
-
+            
             <div class="col-4 sm-width-full left border-top-thin mt-3 mt-lg-0 ml-lg-4 table">
                 <div class="inline-block mt-3 mr-1">
                   {% include dot.html %}
@@ -60,22 +48,21 @@
                 <div class="inline-block mt-3">
                   {% include {{ site.social_link | default: "twitter" }}.html %}
                 </div>
+                <div>
+                  <!-- <p class="h3 lh-condensed font-smoothing mt-2 py-1">{{ site.blg }}</p> -->
+                  <h3><a href="/blogs/">Blogs</a></h3>
+                  <h3><a href="/tutorials/">Tutorials</a></h3>
+                </div>
             </div>
           </div>
-
         </div>
+
       </header>
 
-      <div class="container mx-auto px-2 py-4">
-        {% for post in site.posts %}
-          {% include post_block.html %}
-        {% endfor %}
-      </div>
-
     </div>
-
+    
     {% include footer.html %}
-
   </body>
+
 
 </html>

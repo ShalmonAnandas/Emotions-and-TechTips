@@ -2,7 +2,7 @@
 layout: post
 title:  "My First Blogpost! Yay!"
 date:   2021-07-15 17:36:39 +0530
-categories: Blogs
+categories: blogs
 ---
 
 ![first post reactin gif](https://media2.giphy.com/media/qlbcqVraSMEak/giphy.gif?cid=ecf05e47o9utgx4h3c2drymn0ukvm30i8h7lyqrkssk6eawn&rid=giphy.gif&ct=g)
