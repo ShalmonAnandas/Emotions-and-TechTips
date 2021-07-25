@@ -9,7 +9,7 @@ Install chrome or chromium
 
 1. Create a file named chrome-flags.conf in you .config folder
 	```
-	touch ~/.config/chrome-flags/conf
+	touch ~/.config/chrome-flags.conf
 	```
 
 (If you are using chromium make a file named `chromium-flags.conf` instead)
