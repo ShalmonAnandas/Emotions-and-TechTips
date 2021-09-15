@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Loki, Distro-hopping and The existential dredd of having nothing to do"
+title:  "Its been a while huh."
 date:   2021-09-16 01:30:00 +0530
 categories: blogs
 ---
