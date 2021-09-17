@@ -6,6 +6,7 @@ categories: blogs
 ---
 
 Its been a really long time since I've written here.
+
 The last post was like almost 2 months ago. I don't know why I stopped honestly. I was having fun with it.
 
 This happens with everything though. I start something. I make it. I share it with people close to me and htne i crumble under the pressure of pleasing them. I started this blog just to vent and talk about things interesting to me, but i ended up trying to find things interesting to other people.
