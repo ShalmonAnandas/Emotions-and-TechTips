@@ -204,6 +204,6 @@ Hope this was helpful to newcomers. I will be updating this if I learn something
 3. Have fun. The graphs are an addiction.
 
 ## MORE READING:
-1. https://www.atlassian.com/git/glossary
-2. https://git-scm.com/docs/gittutorial
+1. [https://www.atlassian.com/git/glossary](https://www.atlassian.com/git/glossary)
+2. [https://git-scm.com/docs/gittutorial](https://git-scm.com/docs/gittutorial)
 
