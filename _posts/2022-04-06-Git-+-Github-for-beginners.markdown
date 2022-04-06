@@ -7,7 +7,7 @@ categories: tutorials
 
 Github was the first thing I had to learn to make my life easier when I started programming. Github quantifies how productive I am (which isnt a lot) by giving me graphs of how much shit I got done in that day, and in my opinion, thats priceless. Version control and having copies of all the code youve written as it is on multiple computers is also good I guess. But the graphs??!! Thats some gourmet shit. *chefs kiss*
 
-I'll walk you through the installation, the basic commands and some good practices to get you started with Git and Github.
+I'll walk you through the installation (on Windows [Linux coming soon]), the basic commands and some good practices to get you started with Git and Github.
 
 The goal of this post is cause when I was starting out to learn git as well as github. There were no good, comprehensive, mordern, written resources to learn. I had to rely on bits and pieces of youtube videos and googling to get myself started. Hopefully, This is a comprehensive well rounded guide to git and github.
 
