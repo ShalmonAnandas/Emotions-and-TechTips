@@ -19,6 +19,6 @@ Visit the [Git](https://git-scm.com/download/win) homepage and download the exe 
 
 The installation is pretty straight-forward but I'll still walk you through using screenshots and try to explain each and every option as simply as I can.
 
-<img src="https://i.imgur.com/7cZORe0.png" alt="drawing" width="50"/><img src="https://i.imgur.com/7cZORe0.png" alt="drawing" width="50"/>
+<img src="https://i.imgur.com/7cZORe0.png" alt="drawing" width="250"/>  <img src="https://i.imgur.com/7cZORe0.png" alt="drawing" width="250"/>
 
 ![git-install-1](https://i.imgur.com/7cZORe0.png) ![git-install-2](https://i.imgur.com/7cZORe0.png)
