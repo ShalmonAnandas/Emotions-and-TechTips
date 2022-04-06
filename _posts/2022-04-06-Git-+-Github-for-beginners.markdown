@@ -9,5 +9,9 @@ Github was the first thing I had to learn to make my life easier when I started 
 
 I'll walk you through the installation, the basic commands and some good practices to get you started with Git and Github.
 
-### STEP 1 : MAKE AN ACCOUNT
-![make-an-account-ss](https://i.imgur.com/eFplu6R.png)
+## STEP 1 : MAKE AN ACCOUNT
+![make-an-account-ss]("_site/_assets/_images/ss1.png")
+
+Just do it. Make an account. And then we'll move ahead.
+
+## STEP 2 : INSTALL GIT
