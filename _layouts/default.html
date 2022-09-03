@@ -1,37 +1,27 @@
 <!DOCTYPE html>
-<html lang="{{ page.lang | default: "en" }}" class="html" data-theme="{{ site.theme_config.appearance | default: "auto" }}">
-        {%- include head.html -%}
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+  {%- include head.html -%}
+
   <body>
+
+    {%- include views/header.html -%}
+
+    {%- include views/banner.html -%}
+
+    {%- include extensions/hashlocate.html -%}
+
+    {%- include extensions/theme-toggle.html -%}
+
+    {%- include extensions/click-to-top.html -%}
+
     <main class="page-content" aria-label="Content">
-      <div class="w">
+      <div class="wrapper">
         {{ content }}
-        {% if site.theme_config.appearance_toggle %}
-          {% include toggle_theme_button.html %}
-        {% endif %}
-        <div class="credits">
-          {%- if site.theme_config.show_copyright == true -%}
-          &copy;&nbsp;{{ "now" | date: "%Y" }}&nbsp;{{site.author}}
-          &nbsp;
-          •
-          &nbsp;
-          {%- endif -%}
-          {%- if site.soopr -%}
-          Powered by <a href="https://www.soopr.co" target="_blank" rel="noreferrer">Soopr</a>
-          &nbsp;
-          •
-          &nbsp;
-          {%- endif -%}
-          Theme&nbsp; <a href="https://github.com/abhinavs/moonwalk" target="_blank" rel="noreferrer">Moonwalk</a>
-        </div>
       </div>
     </main>
 
-    {%- if site.soopr -%}
-      {%- if site.soopr.publish_token and jekyll.environment == "production" -%}
-        <script async defer data-soopr-token="{{site.soopr.publish_token}}" src="https://sdk.soopr.co/soopr.js"></script>
-      {%- else -%}
-        <script async defer src="https://sdk.soopr.co/soopr.js"></script>
-      {%- endif -%}
-    {%- endif -%}
+    {%- include views/footer.html -%}
+
   </body>
 </html>

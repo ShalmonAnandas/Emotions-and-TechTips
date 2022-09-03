@@ -1,8 +1,24 @@
 ---
 layout: post
+title: My First Blogpost! Yay!
+subtitle: 
+author: "Shalmon Anandas"
+categories: Blogpost
+banner:
+  video: https://media.giphy.com/media/qlbcqVraSMEak/giphy.gif
+  loop: true
+  volume: 0.8
+  start_at: 8.5
+  image: https://media.giphy.com/media/qlbcqVraSMEak/giphy.gif
+  opacity: 0.618
+  background: "#000"
+  height: "100vh"
+  min_height: "38vh"
+  heading_style: "font-size: 4.25em; font-weight: bold; text-decoration: underline"
+  subheading_style: "color: gold"
+tags: blogpost
+sidebar: []
 ---
-
-![first post reactin gif](https://media2.giphy.com/media/qlbcqVraSMEak/giphy.gif?cid=ecf05e47o9utgx4h3c2drymn0ukvm30i8h7lyqrkssk6eawn&rid=giphy.gif&ct=g)
 
 So yeah, I finally caved in and started a blog. Fun!
 
@@ -15,4 +31,3 @@ So starting next week every monday. I'll be putting up a blog post to talk about
 I'll be posting a few blogs throughout the week if I feel like "I NEED TO TALK ABOUT THIS ASAP" but those will be few and far between.
 
 Hope this goes well and that I dont give up 2 weeks in. 😂
-

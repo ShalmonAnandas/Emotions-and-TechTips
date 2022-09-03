@@ -1,7 +1,11 @@
 ---
 layout: post
+title: Steam Deck, Linux, Github Copilot and more!
+subtitle: 
+categories: Blogpost
+author: "Shalmon Anandas"
+tags: [steamdeck, Blogpost, Copilot, Linux]
 ---
-
 
 This is my first time writing a blog so expect some rough edges.
 

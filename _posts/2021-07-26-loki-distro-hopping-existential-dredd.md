@@ -1,5 +1,10 @@
 ---
 layout: post
+title: Loki, Distro-hopping and The existential dredd of having nothing to do
+subtitle:
+categories: Blogpost
+author: "Shalmon Anandas"
+tags: [Blogpost, Loki, Linux, Emotions]
 ---
 
 I don't know what to talk about after just one week of starting this blog lmao. Hence, the late blog-post. Yay!
@@ -10,13 +15,13 @@ I spent most of my week flip flopping between different linux-distros and trying
 
 I watched a lot of youtube videos. Like, a LOT of youtube videos. I watched about 6-8 hours on average with a day reaching close to 12 hours.
 
-![steamdeck](https://i.imgur.com/9zoNyEI.jpeg)
+![watchtime](https://i.imgur.com/9zoNyEI.jpeg)
 
  I have a serious problem guys, send help. But to be fair I have youtube videos playing in the background while i'm doing computer stuff. So it's just background noise, the amount of youtube I watched with my full focus was probably way lower than that. I'm done defending myself xD.
 
 <h2>I finished loki last week.</h2>
 
-![steamdeck](https://phantom-marca.unidadeditorial.es/92d530c84534be4b20128c2de58f7f18/crop/0x0/1199x673/resize/1320/f/jpg/assets/multimedia/imagenes/2021/07/13/16261978040155.jpg)
+![loki](https://phantom-marca.unidadeditorial.es/92d530c84534be4b20128c2de58f7f18/crop/0x0/1199x673/resize/1320/f/jpg/assets/multimedia/imagenes/2021/07/13/16261978040155.jpg)
 
 It was kinda fun. I liked it, so here is my review. (I watched the show weekly so my views on it could be different from most cause I didn't consume it in one big chunk, so dont come after me)
 
@@ -35,7 +40,7 @@ The tone of the show is a bit off-beat sometimes. Some parts of the show are waa
 
 <h2>So, distro-hopping.</h2>
 
-![linux](https://media.giphy.com/media/4Zgy9QqzWU8C3ugvCa/giphy.gif)
+![penguin](https://media.giphy.com/media/4Zgy9QqzWU8C3ugvCa/giphy.gif)
 
 I tried a lot of distros in the past week, I talked about 3 distros and 5 desktop environments.
 I used Manjaro, Fedora, and Opensuse. I used Fedora and opensuse with gnome and tried Manjaro with  Gnome, KDE, Budgie, i3wm and bspwm.
@@ -67,3 +72,4 @@ It's like the feeling of finishing a really good show and having nothing to do, 
 So yeah, the moral of the story is, be prepared to feel confused, distro hop a shit ton, try linux and watch loki.
 
 I see you guys next week, same bad day, same bad blog.
+
