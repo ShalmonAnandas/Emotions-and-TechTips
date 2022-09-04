@@ -31,3 +31,4 @@ So starting next week every monday. I'll be putting up a blog post to talk about
 I'll be posting a few blogs throughout the week if I feel like "I NEED TO TALK ABOUT THIS ASAP" but those will be few and far between.
 
 Hope this goes well and that I dont give up 2 weeks in. 😂
+
