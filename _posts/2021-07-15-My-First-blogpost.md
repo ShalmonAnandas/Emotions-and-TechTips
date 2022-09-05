@@ -18,6 +18,7 @@ banner:
   subheading_style: "color: gold"
 tags: blogpost
 sidebar: []
+comments: true
 ---
 
 So yeah, I finally caved in and started a blog. Fun!
