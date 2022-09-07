@@ -3,7 +3,7 @@ layout: post
 title: Its been a while huh
 subtitle:
 categories: Blogpost
-author: "Shalmon Anandas"
+author: "Walter White"
 tags: [Emotions, Trauma Dump]
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: Enabling Hardware decoding in Chrome/Chromium browser on Manjaro
 subtitle: 
 categories: Tutorial
-author: "Shalmon Anandas"
+author: "Walter White"
 tags: [gpu acceleration, tutorials, in-depth]
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: Feels empty again
 categories: Blogpost
-author: "Shalmon Anandas"
+author: "Walter White"
 tags: [Emotions, Trauma Dump]
 ---
 

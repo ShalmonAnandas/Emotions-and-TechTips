@@ -24,7 +24,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Shalmon Anandas
+title: Emotions and TechTips
 email: nashalanandas@gmail.com
 author: ShalmonAnandas
 
@@ -224,4 +224,4 @@ soopr:
 disqus:
   # Leave shortname blank to disable comments site-wide.
   # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
-  shortname: shalmonanandas.netlify.app
+  shortname: emotionsandtechtips.netlify.app

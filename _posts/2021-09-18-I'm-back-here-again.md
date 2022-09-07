@@ -2,7 +2,7 @@
 layout: post
 title: I'm back here again.
 categories: Blogpost
-author: "Shalmon Anandas"
+author: "Walter White"
 tags: [Emotions, Trauma Dump]
 ---
 

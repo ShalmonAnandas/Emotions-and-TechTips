@@ -3,7 +3,7 @@ layout: post
 title: Loki, Distro-hopping and The existential dredd of having nothing to do
 subtitle:
 categories: Blogpost
-author: "Shalmon Anandas"
+author: "Walter White"
 tags: [Blogpost, Loki, Linux, Emotions]
 ---
 

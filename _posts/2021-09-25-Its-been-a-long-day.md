@@ -3,7 +3,7 @@ layout: post
 title: Its been a log day
 subtitle: A really long day
 categories: Blogpost
-author: "Shalmon Anandas"
+author: "Walter White"
 tags: [Emotions, Trauma Dump]
 ---
 
