@@ -2,7 +2,7 @@
 layout: post
 title: My First Blogpost! Yay!
 subtitle: 
-author: "Walter White"
+author: "Shalmon Anandas"
 categories: Blogpost
 banner:
   video: https://media.giphy.com/media/qlbcqVraSMEak/giphy.gif

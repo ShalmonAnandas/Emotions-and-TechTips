@@ -2,7 +2,7 @@
 layout: post
 title: Git + Github for Beginners
 categories: Tutorial
-author: "Walter White"
+author: "Shalmon Anandas"
 tags: [Github, Git, Tutorial]
 ---
 

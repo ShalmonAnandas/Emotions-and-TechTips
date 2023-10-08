@@ -2,7 +2,7 @@
 layout: post
 categories: Blogpost
 tags: [Emotions, Trauma Dump]
-author: Walter White
+author: Shalmon Anandas
 ---
 
 Oh man, Its been over 3 months since I last saw you. Hi! How are you doing?

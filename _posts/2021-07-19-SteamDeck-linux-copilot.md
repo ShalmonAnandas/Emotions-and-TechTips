@@ -3,7 +3,7 @@ layout: post
 title: Steam Deck, Linux, Github Copilot and more!
 subtitle: 
 categories: Blogpost
-author: "Walter White"
+author: "Shalmon Anandas"
 tags: [steamdeck, Blogpost, Copilot, Linux]
 ---
 
